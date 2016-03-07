@@ -1,0 +1,28 @@
+name: Your Life Matters
+favicon: null
+layout_spectrum: 0.44267775514163077
+typography_spectrum: 0.16568849934265018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5928194816224277
+  lightness: 0.6316838720813394
+  saturation: 0.9151436642277986
+  rhythmicContrast: 0.35785103728994727
+purpose: []
